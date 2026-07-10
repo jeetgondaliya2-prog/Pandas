@@ -1,4 +1,4 @@
-# 🐼 Pandas Practice Repository
+ # 🐼 Pandas Practice Repository
 
 This repository contains my hands-on practice and learning exercises using the **Pandas** library in Python. It includes Jupyter notebooks covering data manipulation, analysis, cleaning, filtering, grouping, and visualization basics.
 
